@@ -14,10 +14,6 @@ Before stepping into Data Science, **I worked as a .NET Developer for 6+ years, 
 
 - **End-to-End Projects** – From data collection → cleaning → modeling → deployment.
 
-**Ongoing Learning:**
-
-- AI Agents Development
-- Generative AI & Large Language Models (LLMs)
 
 **Skillset:**
 
@@ -26,6 +22,12 @@ Before stepping into Data Science, **I worked as a .NET Developer for 6+ years, 
 - **Other Skills**:  Dot Net Development, Web Scraping, Data Collection, Bot Development
 
 - **Tools:**  VS Code, Jupyter Notebook, Colab Notebook, MySQL Workbench, MS SQL Server, Git, GitHub, Excel, Power BI (For Visualisation), Postman, Slack (Project Management)
+
+
+**Ongoing Learning:**
+
+- AI Agents Development
+- Generative AI & Large Language Models (LLMs)
 
 **Want to work with me?**
 
