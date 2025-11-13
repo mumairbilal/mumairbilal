@@ -1,12 +1,12 @@
 👋 Hi, My name is Muhammad Umair Bilal — **Data Scientist**
 
-I’m a Data Scientist with a strong foundation in **Machine Learning, Data Analysis, and Predictive Modelling.** I specialise in transforming raw data into meaningful insights through **Exploratory Data Analysis (EDA), statistical modelling, and machine learning algorithms.**
+I’m a Data Scientist with a strong foundation in **Machine Learning, Deep Learning, Natural Language Processing, Predictive Modelling, and Large Language Models (LLMs).** My workflow involves data preprocessing, performing Exploratory Data Analysis (EDA), applying various algorithms, and applying hyperparameter tuning to achieve optimal model performance and accuracy.
 
-Before stepping into Data Science, **I worked as a .NET Developer for 6+ years, specializing in Web Scraping & Automation,** building tools that collected and processed large-scale data. This background gives me a unique edge; I don't rely only on analysing data but also know how to acquire, clean, and prepare it for models development efficiently for real-world projects.
+Before stepping into Data Science, **I worked as a .NET Developer for 6+ years, specialising in Web Scraping & Automation, building bots to scrape and process large-scale data.** This background gives me a unique edge; I don't rely solely on model development, but also know how to deploy models in Streamlit or Amazon SageMaker (AWS) for real-world projects.
 
 **Here's what I can do for you:**
 
-- **Data Analysis & Visualisation** – Finding patterns and insights using Pandas, NumPy, Matplotlib, Seaborn, SQL and PowerBI (For Visualization).
+- **Data Analysis & Visualisation** – Finding patterns and insights using Pandas, NumPy, Matplotlib, Seaborn, SQL and Power BI (For Visualisation).
 
 - **Machine Learning** – Building and evaluating ML models for classification, regression, and predictions.
 
@@ -19,7 +19,7 @@ Before stepping into Data Science, **I worked as a .NET Developer for 6+ years, 
 
 - **Data Science & ML:**  Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, FastAPI, Streamlit
 
-- **Other Skills**:  Dot Net Development, Web Scraping, Data Collection, Bot Development
+- **Other Skills**:  .NET Development, Web Scraping, Data Collection, Bot Development
 
 - **Tools:**  VS Code, Jupyter Notebook, Colab Notebook, MySQL Workbench, MS SQL Server, Git, GitHub, Excel, Power BI (For Visualisation), Postman, Slack (Project Management)
 
