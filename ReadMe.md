@@ -1,4 +1,4 @@
-👋 Hi, My name is Muhammad Umair Bilal — **Data Scientist**
+👋 Hi, My name is Muhammad Umair Bilal
 
 I’m a Data Scientist with a strong foundation in **Machine Learning, Deep Learning, Natural Language Processing, Predictive Modelling, and Large Language Models (LLMs).** My workflow involves data preprocessing, performing Exploratory Data Analysis (EDA), applying various algorithms, and applying hyperparameter tuning to achieve optimal model performance and accuracy.
 
