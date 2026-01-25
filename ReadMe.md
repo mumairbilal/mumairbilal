@@ -1,6 +1,4 @@
-👋 Hi, My name is Muhammad Umair Bilal
-
-I’m a Data Scientist with a strong foundation in **Machine Learning, Deep Learning, Natural Language Processing, Predictive Modelling, and Large Language Models (LLMs).** My workflow involves data preprocessing, performing Exploratory Data Analysis (EDA), applying various algorithms, and applying hyperparameter tuning to achieve optimal model performance and accuracy.
+👋 Hi, I’m a Data Scientist with a strong foundation in **Machine Learning, Deep Learning, Natural Language Processing, Predictive Modelling, and Large Language Models (LLMs).** My workflow involves data preprocessing, performing Exploratory Data Analysis (EDA), applying various algorithms, and applying hyperparameter tuning to achieve optimal model performance and accuracy.
 
 Before stepping into Data Science, **I worked as a .NET Developer for 6+ years, specialising in Web Scraping & Automation, building bots to scrape and process large-scale data.** This background gives me a unique edge; I don't rely solely on model development, but also know how to deploy models in Streamlit or Amazon SageMaker (AWS) for real-world projects.
 
