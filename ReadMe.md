@@ -12,7 +12,7 @@ I build end-to-end AI systems — from raw data ingestion to deployed, productio
 My work spans:
 - **Predictive ML models** (88–94% accuracy) using scikit-learn, XGBoost, and Random Forest
 - **LLM fine-tuning** — GPT-2 trained, achieving 58% perplexity reduction
-- **RAG pipelines** using LangChain + chromadb — 91% answer relevanc
+- **RAG pipelines** using LangChain + chromadb — 91% answer relevance
 - **Web scraping & automation** — Scraped great number of records processed across Amazon, Instagram, Google Maps
 
 ---
