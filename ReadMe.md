@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm Muhammad Umair Bilal
 
 **Data Scientist · ML Engineer · AI & Automation Specialist**  
-📍 Lahore, Pakistan · 📧 mrumair157@gmail.com · [LinkedIn](https://www.linkedin.com/in/mumairbilal/)
+📍 Lahore, Pakistan · [LinkedIn](https://www.linkedin.com/in/mumairbilal/)
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 I build end-to-end AI systems — from raw data ingestion to deployed, production-ready applications. With 6+ years of experience, I've delivered 300+ data projects and 50+ automation solutions for clients across 10+ industries.
 
@@ -18,7 +18,7 @@ My work spans:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Area | Tools |
 |------|-------|
@@ -32,7 +32,7 @@ My work spans:
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -42,9 +42,9 @@ My work spans:
 
 ---
 
-### 📊 Currently Open To
+### Currently Open To
 - Part/Full-time **Data Scientist / ML Engineer** roles
 - Freelance AI/ML projects
 - Collaborations on LLM, RAG, or NLP projects
 
-📬 **Reach me:** mrumair157@gmail.com
+**Reach me:** mrumair157@gmail.com
