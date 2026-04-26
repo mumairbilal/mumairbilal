@@ -1,36 +1,50 @@
-👋 Hi, I’m a Data Scientist with a strong foundation in **Machine Learning, Deep Learning, Natural Language Processing, Predictive Modelling, and Large Language Models (LLMs).** My workflow involves data preprocessing, performing Exploratory Data Analysis (EDA), applying various algorithms, and applying hyperparameter tuning to achieve optimal model performance and accuracy.
+## 👋 Hi, I'm Muhammad Umair Bilal
 
-Before stepping into Data Science, **I worked as a .NET Developer for 6+ years, specialising in Web Scraping & Automation, building bots to scrape and process large-scale data.** This background gives me a unique edge; I don't rely solely on model development, but also know how to deploy models in Streamlit or Amazon SageMaker (AWS) for real-world projects.
+**Data Scientist · ML Engineer · AI & Automation Specialist**  
+📍 Lahore, Pakistan · 📧 mrumair157@gmail.com · [LinkedIn](https://www.linkedin.com/in/mumairbilal/)
 
-**Here's what I can do for you:**
+---
 
-- **Data Analysis & Visualisation** – Finding patterns and insights using Pandas, NumPy, Matplotlib, Seaborn, SQL and Power BI (For Visualisation).
+### 🚀 What I Do
 
-- **Machine Learning** – Building and evaluating ML models for classification, regression, and predictions.
+I build end-to-end AI systems — from raw data ingestion to deployed, production-ready applications. With 6+ years of experience, I've delivered 300+ data projects and 50+ automation solutions for clients across 10+ industries.
 
-- **Statistical Insights** – Applying statistical methods to understand data trends.
+My work spans:
+- **Predictive ML models** (88–94% accuracy) using scikit-learn, XGBoost, and Random Forest
+- **LLM fine-tuning** — GPT-2 trained on 120K tokens, achieving 58% perplexity reduction
+- **RAG pipelines** using LangChain + FAISS — 91% answer relevance vs 67% with naive LLM
+- **NLP chatbots** with 93% intent classification accuracy across 25 intent classes
+- **Web scraping & automation** — 5M+ records processed across Amazon, Instagram, Google Maps
 
-- **End-to-End Projects** – From data collection → cleaning → modeling → deployment.
+---
 
+### 🛠️ Tech Stack
 
-**Skillset:**
+| Area | Tools |
+|------|-------|
+| **ML/DL** | scikit-learn, XGBoost, TensorFlow, PyTorch, Keras |
+| **NLP & LLMs** | Hugging Face, BERT, GPT-2, LangChain, Prompt Engineering |
+| **RAG & Vector DBs** | FAISS, ChromaDB, Embeddings, LLM Chaining |
+| **APIs** | FastAPI, OpenAI API, REST APIs |
+| **Data** | Pandas, NumPy, Power BI, Matplotlib, Seaborn |
+| **Scraping** | Selenium, BeautifulSoup, Scrapy, Python, C# |
+| **Deployment** | Streamlit, Git, Jupyter, VS Code |
 
-- **Data Science & ML:**  Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, FastAPI, Streamlit
+---
 
-- **Other Skills**:  .NET Development, Web Scraping, Data Collection, Bot Development
+### 📌 Featured Projects
 
-- **Tools:**  VS Code, Jupyter Notebook, Colab Notebook, MySQL Workbench, MS SQL Server, Git, GitHub, Excel, Power BI (For Visualisation), Postman, Slack (Project Management)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [RAG Pipeline](https://github.com/mumairbilal/RAG_Pipeline) | Q&A system over 10K+ doc chunks — 91% answer relevance | LangChain, FAISS, Streamlit |
+| [BTC Price Prediction](https://github.com/mumairbilal/btc_price_prediction) | Cryptocurrency forecasting using ML | Python, scikit-learn |
+| [AI Resume Analyzer](https://github.com/mumairbilal/ai-resume-analyzer) | AI-powered resume screening tool | Python, NLP |
 
+---
 
-**Ongoing Learning:**
+### 📊 Currently Open To
+- Part/Full-time **Data Scientist / ML Engineer** roles
+- Freelance AI/ML projects
+- Collaborations on LLM, RAG, or NLP projects
 
-- AI Agents Development
-- Generative AI & Large Language Models (LLMs)
-
-**Want to work with me?**
-
-Open to collaborations on **Data Science projects**
-
-**Reach out to me at:** mrumair157@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/mumairbilal/
+📬 **Reach me:** mrumair157@gmail.com
