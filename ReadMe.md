@@ -11,10 +11,9 @@ I build end-to-end AI systems — from raw data ingestion to deployed, productio
 
 My work spans:
 - **Predictive ML models** (88–94% accuracy) using scikit-learn, XGBoost, and Random Forest
-- **LLM fine-tuning** — GPT-2 trained on 120K tokens, achieving 58% perplexity reduction
-- **RAG pipelines** using LangChain + FAISS — 91% answer relevance vs 67% with naive LLM
-- **NLP chatbots** with 93% intent classification accuracy across 25 intent classes
-- **Web scraping & automation** — 5M+ records processed across Amazon, Instagram, Google Maps
+- **LLM fine-tuning** — GPT-2 trained, achieving 58% perplexity reduction
+- **RAG pipelines** using LangChain + chromadb — 91% answer relevanc
+- **Web scraping & automation** — Scraped great number of records processed across Amazon, Instagram, Google Maps
 
 ---
 
@@ -22,12 +21,12 @@ My work spans:
 
 | Area | Tools |
 |------|-------|
-| **ML/DL** | scikit-learn, XGBoost, TensorFlow, PyTorch, Keras |
-| **NLP & LLMs** | Hugging Face, BERT, GPT-2, LangChain, Prompt Engineering |
-| **RAG & Vector DBs** | FAISS, ChromaDB, Embeddings, LLM Chaining |
+| **ML/DL** | scikit-learn, XGBoost, TensorFlow, Keras |
+| **NLP & LLMs** | Hugging Face, GPT-2, LangChain, Prompt Engineering |
+| **RAG & Vector DBs** | QDrant, ChromaDB, Embeddings, LLM Chaining |
 | **APIs** | FastAPI, OpenAI API, REST APIs |
 | **Data** | Pandas, NumPy, Power BI, Matplotlib, Seaborn |
-| **Scraping** | Selenium, BeautifulSoup, Scrapy, Python, C# |
+| **Scraping** | Selenium, Python, C# |
 | **Deployment** | Streamlit, Git, Jupyter, VS Code |
 
 ---
