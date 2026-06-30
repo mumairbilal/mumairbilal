@@ -7,7 +7,7 @@ Lahore, Pakistan · [LinkedIn](https://www.linkedin.com/in/mumairbilal/)
 
 ### What I Do
 
-I build end-to-end AI systems — from raw data ingestion to deployed, production-ready applications. With 6+ years of experience, I've delivered 300+ data projects and 50+ automation solutions for clients across 10+ industries.
+I'm an AI/ML Python Engineer with 1 year of hands-on experience building real world projects in LLMs, Retrieval Augmented Generation (RAG), NLP, and GenAI. Expert at developing and deploying AI applications using Python, FastAPI and Streamlit. Passionate about AI Agents and production ready ML deployment systems such as AWS, Google Cloud and Azure.
 
 My work spans:
 - **Predictive ML models** (88–94% accuracy) using scikit-learn, XGBoost, and Random Forest
